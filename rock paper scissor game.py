@@ -5,7 +5,7 @@ chance = 10
 no_of_chance = 0
 computer_point = 0
 human_point = 0
-
+ 
 print(" \t \t \t \t Rock,Paper,Scissor Game \n\n")
 print("r for rock\np for paper\ns for scissor")
 
